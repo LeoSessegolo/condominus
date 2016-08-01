@@ -1,2 +1,13 @@
 #All classes
 *.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#config files
+/target/
+.classpath
+.project
+.settings
